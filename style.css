@@ -1,0 +1,9 @@
+.index-ul{
+    list-style: none;
+    background-color: chartreuse;
+    
+}
+
+.index-ul li{
+    margin-bottom: 10px;
+}
